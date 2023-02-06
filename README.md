@@ -27,3 +27,6 @@ I built a simple component for the loading animation which gets triggered when a
 ## Rendering the data in our app
 
 Finally I used the .map() method of javascript to map the data inside the container div. Here each item coming from the API gets rendered as a separate card in our app.
+
+#Time taken to complete this project
+3 hours approx.
