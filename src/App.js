@@ -19,7 +19,7 @@ function App() {
     setLoading(true)
     try {
       const response = await axios.get("https://reqres.in/api/users?page=1")
-      // console.log(response.data)
+      console.log(response.data)
       setData(response.data)
 
     } catch (error) {
